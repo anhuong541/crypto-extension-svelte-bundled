@@ -41,21 +41,11 @@ The extension should now appear in your Chrome extensions toolbar.
 3. Paste your API key into the input field
 4. Click "Add Coinmarketcap API Key"
 
-## Using the Extension
-
-1. After adding your API key, you'll see the main extension interface
-2. Enter a cryptocurrency symbol (e.g., BTC, ETH, ADA) in the input field
-3. Click "Add" to start tracking that cryptocurrency
-4. The current price will be displayed in USD
-5. You can add multiple cryptocurrencies to track
-6. To remove a cryptocurrency from your tracking list, click the "×" button next to it
-
 ## Features
 
-- Real-time cryptocurrency price tracking
-- Support for all cryptocurrencies available on CoinMarketCap
-- Lightweight and easy to use
-- Caches data to minimize API calls
+- Automatically updates data every time you open the extension
+- Powered by the CoinMarketCap API for accurate market data
+- Built with Svelte for high performance
 
 ## Troubleshooting
 
