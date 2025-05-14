@@ -1,5 +1,8 @@
 # Crypto Tracker Chrome Extension
 
+This code is being bundled by this project build
+[Crypto Tracking Extensions With Svelte](https://github.com/anhuong541/crypto-tracker-svelte-extensions)
+
 A Chrome extension for tracking cryptocurrency prices in real-time using the CoinMarketCap API.
 
 ## Installation Guide
